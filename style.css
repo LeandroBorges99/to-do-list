@@ -1,0 +1,44 @@
+* {
+    font-family: sans-serif;
+    color: #333;
+}
+
+body {
+    background: #edf0f2;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+}
+
+#app {
+    padding: 2.5rem;
+}
+
+input {
+    padding: 0.8rem;
+    font-size: 1.6rem;
+    border: 0.1rem solid #ccc;
+    border-radius: 0.3rem;
+    width: 25.0rem;
+}
+
+form button {
+    background: #69da92;
+    padding: .08rem 1.2rem;
+    font-size: 1.6rem;
+    color: #fff;
+    border: 0;
+    border-radius: 0.3rem;
+}
+
+#tarefas button {
+    background: transparent;
+    font-size: 1.4rem;
+    border: 0;
+    color: red;
+    text-transform: uppercase;
+
+}
